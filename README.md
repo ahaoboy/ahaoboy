@@ -1,5 +1,7 @@
 <table width="100%"> 
   <tr>
+		<img src="https://github-readme-stats.vercel.app/api?username=ahaoboy&show_icons=true" />
+  <tr>
   <td width="50%">
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
