@@ -3,8 +3,15 @@
 - Frontend engineer from China, locate at Xi'an
 - Most of my projects are available on [Github](https://github.com/ahaoboy)
 - Worked at Microsoft and ByteDance
-- Graduated from [xjtu](http://en.xjtu.edu.cn), QS University World Rankings: [#295](https://www.topuniversities.com/universities/xian-jiaotong-university)
 - Contact me [504595380@qq.com](mailto:504595380@qq.com)
+
+
+<table width="100%">
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=ahaoboy&show_icons=true&theme=dark" />
+  <tr>
+</table>
+
 
 <details>
   <summary>More</summary>
